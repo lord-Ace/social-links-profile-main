@@ -30,7 +30,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [label](./index.html)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site](https://social-links-profile-main-beige.vercel.app/)(https://social-links-profile-main-git-main-lordaces-projects.vercel.app/)
+- 
 
 ## My process
 
